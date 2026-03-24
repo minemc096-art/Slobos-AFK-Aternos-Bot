@@ -8,7 +8,7 @@
   "server": {
     "ip": "dhanuviking.aternos.me",
     "port": 64396,
-    "version": "1.21",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
